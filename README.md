@@ -1,4 +1,4 @@
-Password Generator | CodeIgniter 4 dan Bootstrap
+**Password Generator | CodeIgniter 4 dan Bootstrap**
 
 Aplikasi sederhana untuk menghasilkan password acak, menggunakan CodeIgniter 4 sebagai framework backend dan Bootstrap untuk antarmuka.
 
